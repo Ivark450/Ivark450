@@ -1,16 +1,15 @@
-## Hi there 👋
+## Seja bem-vindo(a) ao meu perfil!🤖
 
-<!--
-**Ivark450/Ivark450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ivar
 
-Here are some ideas to get you started:
+- Estudo [Alura](https://cursos.alura.com.br/course/repositorio-digital-compartilhar-seus-projetos/task/145200) e [Senai](https://sp.senai.br/unidade/sertaozinho/)!
+- Estou aprendendo sobre linguagem SQL e JAVA
+- Utilizo esse site para organização e compartilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode tentar também
+- Linguagem Java
+- LInguagem SQL
+- LInguagem Lua
+- Linguagem C++
+
+![](https://media1.tenor.com/m/SbJPuqU1tsQAAAAC/dark-souls.gif)
